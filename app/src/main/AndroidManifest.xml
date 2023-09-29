@@ -13,6 +13,9 @@
         android:theme="@style/Theme.ProyectoApp"
         tools:targetApi="31">
         <activity
+            android:name=".Modificacion_InterfazP"
+            android:exported="false" />
+        <activity
             android:name=".InterfazdeProductos"
             android:exported="false" />
         <activity
